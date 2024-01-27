@@ -1702,3 +1702,173 @@ File Path                                PID  Runtime      # DAGs    # Errors  L
 -------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
 /opt/airflow/dags/dog_api_pipeline.py    396  0.00s             1           0  0.08s           2024-01-27T02:22:32
 ================================================================================
+[2024-01-27T02:23:17.939+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:23:17.940+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:23:33.009+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:23:33.010+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:23:33.025+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    418  0.01s             1           0  0.09s           2024-01-27T02:23:02
+================================================================================
+[2024-01-27T02:23:48.112+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:23:48.113+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:24:03.177+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:24:03.178+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:24:03.193+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    441  0.00s             1           0  0.12s           2024-01-27T02:23:33
+================================================================================
+[2024-01-27T02:24:18.317+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:24:18.319+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:24:33.382+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:24:33.384+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:24:33.404+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    472  0.01s             1           0  0.08s           2024-01-27T02:24:03
+================================================================================
+[2024-01-27T02:24:48.466+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:24:48.468+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:25:03.535+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:25:03.536+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:25:03.548+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    493  0.00s             1           0  0.13s           2024-01-27T02:24:33
+================================================================================
+[2024-01-27T02:25:18.675+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:25:18.676+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:25:33.741+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:25:33.742+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:25:33.759+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    522  0.01s             1           0  0.09s           2024-01-27T02:25:03
+================================================================================
+[2024-01-27T02:25:48.839+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:25:48.841+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:26:03.902+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:26:03.903+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:26:03.916+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    545  0.00s             1           0  0.12s           2024-01-27T02:25:33
+================================================================================
+[2024-01-27T02:26:19.037+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:26:19.038+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:26:34.099+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:26:34.100+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:26:34.112+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    568  0.00s             1           0  0.08s           2024-01-27T02:26:03
+================================================================================
+[2024-01-27T02:26:49.171+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:26:49.172+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:27:04.234+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:27:04.236+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:27:04.253+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    600  0.01s             1           0  0.08s           2024-01-27T02:26:34
+================================================================================
+[2024-01-27T02:27:19.337+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:27:19.339+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:27:34.395+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:27:34.396+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:27:34.408+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    622  0.00s             1           0  0.13s           2024-01-27T02:27:04
+================================================================================
+[2024-01-27T02:27:49.517+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:27:49.519+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:28:04.582+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:28:04.583+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:28:04.596+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    644  0.00s             1           0  0.08s           2024-01-27T02:27:34
+================================================================================
+[2024-01-27T02:28:19.666+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:28:19.668+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:28:34.732+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:28:34.734+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:28:34.750+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    675  0.01s             1           0  0.09s           2024-01-27T02:28:04
+================================================================================
+[2024-01-27T02:28:49.821+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:28:49.823+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:29:04.894+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:29:04.895+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:29:04.907+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    697  0.00s             1           0  0.13s           2024-01-27T02:28:34
+================================================================================
+[2024-01-27T02:29:20.027+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:29:20.029+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:29:35.094+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:29:35.095+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:29:35.107+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    719  0.00s             1           0  0.08s           2024-01-27T02:29:04
+================================================================================
+[2024-01-27T02:29:50.170+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:29:50.172+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:30:05.247+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:30:05.248+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-27T02:30:05.302+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dog_api_pipeline.py    750  0.02s             1           0  0.08s           2024-01-27T02:29:35
+================================================================================
+[2024-01-27T02:30:20.384+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2024-01-27T02:30:20.386+0000] {manager.py:741} INFO - There are 1 files in /opt/airflow/dags
